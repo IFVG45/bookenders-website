@@ -1,0 +1,121 @@
+header {
+  text-align: center;
+  margin: 0;
+  display: block;
+  background-color: #d8ae00;
+}
+
+h1, h2 {
+  font-family: 'Sigmar One', cursive;
+}
+
+p, .info, .info2 {
+  font-family: 'Georgia', serif;
+  font-size: 1.0rem;
+}
+
+
+
+nav{
+overflow:hidden;
+margin:0;
+}
+
+
+
+nav li{
+  text-align:center;
+  padding: 1em;
+  float:left;
+  width:24%;
+  background-color:#d8ae00;
+
+}
+
+dt{
+  text-align:left;
+  width:12%;
+  display:block;
+  font-style:italic;
+
+}
+
+dd{
+  text-align:center;
+  display:block;
+}
+
+nav a{
+  color:#fff;
+  text-decoration:none;
+  font-size:1.5 rem;
+}
+
+nav ul{
+
+  list-style-type: none;
+  padding:0;
+  margin:0;
+
+
+}
+
+header h1 {
+  margin: 0;
+}
+
+
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: .5em;
+}
+
+h1 {
+  color: #59371b;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+
+
+h2 {
+  color: #e9eddf;
+  background-color: #a68500;
+  display:block;
+}
+
+
+span{
+  display:block;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 1.5em;
+  margin: 0;
+  display: block;
+  background-color: #ffffff;
+}
+
+.slugs{
+  background-color:#f3ecd9;
+}
+
+
+ img {
+  width: 80%;
+
+}
+
+footer {
+  margin: 0;
+  overflow:hidden;
+  width: 50%;
+  background-color: #f3ecd9;
+
+}
