@@ -2,7 +2,7 @@ header {
   text-align: center;
   margin: 0;
   display: block;
-  background-color: #d8ae00;
+  background-color: #a6b000;
 }
 
 h1, h2 {
@@ -28,7 +28,7 @@ nav li{
   padding: 1em;
   float:left;
   width:24%;
-  background-color:#d8ae00;
+  background-color:#a6b000;
 
 }
 
@@ -36,7 +36,6 @@ dt{
   text-align:left;
   width:12%;
   display:block;
-  font-style:italic;
 
 }
 
@@ -83,15 +82,16 @@ h1 {
 
 
 h2 {
-  color: #e9eddf;
-  background-color: #a68500;
+  color: #000;
   display:block;
 }
 
+h3 {
+  color: #000;
+  background-color: #b3b3b3;
 
-span{
-  display:block;
 }
+
 
 footer {
   text-align: center;
@@ -108,7 +108,8 @@ footer {
 
 
  img {
-  width: 80%;
+  width: 28%;
+  float:left
 
 }
 
